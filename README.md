@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonezkti&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonezkti&show_icons=true&theme=radical&border_radius=20px" />
 </p>
